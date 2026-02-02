@@ -1,6 +1,6 @@
 <!-- PROFILE README — pappardelle.eth -->
 
-<h1 align="center">👋hi i'm pappardelle.eth and this is my codinl lab</h1>
+<h1 align="center">👋hi i'm pappardelle.eth and this is my coding lab</h1>
 
 <p align="center">
   <b>Strategic Orchestrator · AI-assisted Systems · Web3 Infrastructure</b><br>
@@ -56,4 +56,4 @@
 - Infrastructure tests  
 - Ideas in executable form  
 
-Some repositories are ** experiments**, not polished products.
+Some repositories are experiments, not polished products.
