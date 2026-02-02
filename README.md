@@ -56,7 +56,7 @@
 - Infrastructure tests  
 - Ideas in executable form  
 
-Most repositories are **intentional experiments**, not polished products.
+Some repositories are ** experiments**, not polished products.
 
 ---
 
