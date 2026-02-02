@@ -9,7 +9,7 @@
 
 <p align="center">
   Not a pure developer.<br>
-  I design, coordinate, and land complex systems.
+  for hobby I design, coordinate, and land complex systems.
 </p>
 
 <p align="center">
