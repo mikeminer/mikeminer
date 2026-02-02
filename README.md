@@ -1,6 +1,6 @@
 <!-- PROFILE README — pappardelle.eth -->
 
-<h1 align="center">👋 pappardelle.eth</h1>
+<h1 align="center">👋hi i'm pappardelle.eth and this is my codinl lab</h1>
 
 <p align="center">
   <b>Strategic Orchestrator · AI-assisted Systems · Web3 Infrastructure</b><br>
@@ -57,10 +57,3 @@
 - Ideas in executable form  
 
 Some repositories are ** experiments**, not polished products.
-
----
-
-<p align="center">
-  📍 ENS: <b>pappardelle.eth</b><br>
-  🧪 GitHub = operational lab
-</p>
