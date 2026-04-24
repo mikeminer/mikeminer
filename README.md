@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <a href="https://talent.app/pappardelle" target="_blank">
+  <a href="https://talent.app/mikeminer/activity" target="_blank">
     <img src="https://img.shields.io/badge/Talent.app-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.base.org/name/pappardelle" target="_blank">
