@@ -45,6 +45,9 @@
   <a href="https://www.base.org/name/pappardelle" target="_blank">
     <img src="https://img.shields.io/badge/Base%20Name-pappardelle.eth-0052FF?style=for-the-badge&logo=coinbase&logoColor=white"/>
   </a>
+   <a href="https://devfolio.co/@pappardelle" target="_blank">
+    <img src="https://github.com/devfolioco/brand-assets/blob/main/Logo%20%2B%20Text%20-%20Colored/Devfolio%20-%20Normal.png"/>
+  </a>
 </p>
 
 ---
