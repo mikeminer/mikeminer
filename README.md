@@ -1,4 +1,5 @@
 <!-- PROFILE README — pappardelle.eth -->
+<img width="1292" height="698" alt="image" src="https://github.com/user-attachments/assets/6675c6e4-d4c6-4e9f-a768-d6751c2975ec" />
 
 <h1 align="center">👋hi i'm pappardelle.eth and this is my coding lab</h1>
 
