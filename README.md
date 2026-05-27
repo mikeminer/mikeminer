@@ -52,6 +52,9 @@
    <a href="https://pappardellefaucet.vercel.app/" target="_blank">
     <img width="1346" height="527" alt="pastabanner" src="https://github.com/user-attachments/assets/4db39cbd-3702-45d3-a689-5c0c563930fe" />
   </a>
+    <a href="https://pinex.vercel.app/" target="_blank">
+    <img width="173" height="62" alt="image" src="https://github.com/user-attachments/assets/9f48df82-a38b-41ad-88df-148740583768" />
+  </a>
 </p>
 
 ---
