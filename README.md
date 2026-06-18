@@ -55,6 +55,9 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
     <a href="https://pinex.vercel.app/" target="_blank">
     <img width="1346" height="527" alt="image" src="https://github.com/user-attachments/assets/3b638300-c471-42d5-8509-888823157e0d" />
   </a>
+   <a href="https://ragosint.vercel.app/" target="_blank">
+    <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/454f0ab6-8637-4f11-a055-e8dddf59c61a" />
+  </a>
 </p>
 
 ---
