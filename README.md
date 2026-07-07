@@ -58,6 +58,9 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
    <a href="https://ragosint.vercel.app/" target="_blank">
     <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/454f0ab6-8637-4f11-a055-e8dddf59c61a" />
   </a>
+   <a href="https://www.devroulotte.chat/chat" target="_blank">
+    <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/3d3eb6bb-22f7-4e89-85e3-2547583b30b1" />
+  </a>
 </p>
 
 ---
