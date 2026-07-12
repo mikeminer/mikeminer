@@ -61,6 +61,9 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
    <a href="https://www.devroulotte.chat/chat" target="_blank">
     <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/3d3eb6bb-22f7-4e89-85e3-2547583b30b1" />
   </a>
+   <a href="https://mezzi.online/" target="_blank">
+    <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/d6437209-6b20-418d-95eb-06375a836cda" />
+  </a>
 </p>
 
 ---
