@@ -64,6 +64,10 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
    <a href="https://mezzi.online/" target="_blank">
     <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/d6437209-6b20-418d-95eb-06375a836cda" />
   </a>
+  </a>
+   <a href="https://muselend.me/" target="_blank">
+    <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/c8c3f82e-d327-4c25-ba91-b70d51709a96" />
+  </a>
 </p>
 
 ---
