@@ -68,6 +68,10 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
    <a href="https://muselend.me/" target="_blank">
     <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/c8c3f82e-d327-4c25-ba91-b70d51709a96" />
   </a>
+   </a>
+   <a href="https://ecotraceit.com/" target="_blank">
+    <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/a0827cd7-7c20-4a19-93cf-240eb5b34cdd" />
+  </a>
 </p>
 
 ---
