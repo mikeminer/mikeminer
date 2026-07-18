@@ -72,6 +72,9 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
    <a href="https://ecotraceit.com/" target="_blank">
     <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/a0827cd7-7c20-4a19-93cf-240eb5b34cdd" />
   </a>
+   <a href="https://replo.eu/" target="_blank">
+    <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/b6f968f4-3c33-4d81-b369-cae24d5d8fb3" />
+  </a>
 </p>
 
 ---
