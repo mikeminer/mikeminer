@@ -82,6 +82,9 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
   <a href="https://dappster.fun/" target="_blank">
     <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/9b5af6c1-f42a-4fca-8976-3f67da823665" />
   </a>
+  <a href="https://devfridge.cool/" target="_blank">
+    <img width="880" height="315" alt="image" src="https://github.com/user-attachments/assets/f5fa3fad-4ca5-404b-bc9a-43f536c64452" />
+  </a>
 </p>
 
 ---
