@@ -49,6 +49,9 @@ This graph is MCCAPI a signal engine for all the pairs available on hyperliquid 
    <a href="https://devfolio.co/@pappardelle" target="_blank">
     <img src="https://github.com/devfolioco/brand-assets/blob/main/Logo%20%2B%20Text%20-%20Colored/Devfolio%20-%20Normal.png"/>
   </a>
+    <a href="https://www.onlyfridgeclub.online/app" target="_blank">
+    <img width="1346" height="527" alt="pastabanner" src="https://www.onlyfridgeclub.online/app/banner.webp" />
+  </a>
    <a href="https://pappardellefaucet.vercel.app/" target="_blank">
     <img width="1346" height="527" alt="pastabanner" src="https://github.com/user-attachments/assets/4db39cbd-3702-45d3-a689-5c0c563930fe" />
   </a>
