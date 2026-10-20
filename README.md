@@ -1,7 +1,7 @@
 <!-- PROFILE README — pappardelle.eth -->
 ## 📱 My apps on the Solana dApp Store
 
-Published by **DevFridge** · contact welcome@devfridge.cool · Telegram [@pastaHQ](https://t.me/pastaHQ)
+Published by **DevFridge**(https://devfridge.cool/publisher) · contact welcome@devfridge.cool · Telegram [@pastaHQ](https://t.me/pastaHQ)
 
 | App | What it is | Links |
 | --- | --- | --- |
