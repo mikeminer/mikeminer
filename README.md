@@ -1,14 +1,60 @@
 <!-- PROFILE README — pappardelle.eth -->
-## 📱 My apps on the Solana dApp Store
+## 🧊 DevFridge · publisher of my Solana dApp Store apps
 
-Published by **DevFridge**(https://devfridge.cool/publisher) · contact welcome@devfridge.cool · Telegram [@pastaHQ](https://t.me/pastaHQ)
+**DevFridge** · founder **Michele Angelo Forlani** · publisher page: [devfridge.cool/publisher](https://devfridge.cool/publisher) · docs: [docs.devfridge.cool](https://docs.devfridge.cool/)
+
+The DevFridge collection is built around DevFridge's reusable Solana program primitives, such as the Fridge program, where anyone can lock a token until a date of their choice, and around **$PASTA**, the dev token. [DevFridge Scan](https://scan.devfridge.cool/) shows the locks, and the games below read them. Timelocking a token in the DevFridge Solana program at [devfridge.cool](https://devfridge.cool/) unlocks premium features in the apps, as a subscription: they stay open while the lock is active. Wallet features are optional.
+
+| On-chain (Solana mainnet) | Address |
+| --- | --- |
+| **$PASTA**, the dev token (CA) | [`39kMeX4HVRW9qbbiHSPbRQ9xeXUF18GrNP6gL61Ppump`](https://solscan.io/token/39kMeX4HVRW9qbbiHSPbRQ9xeXUF18GrNP6gL61Ppump) |
+| **DevFridge Solana program** | [`9RY54dNPYTzDyh3TfFqDdt2b2KMM56KW1tw9erRTGQo6`](https://solscan.io/account/9RY54dNPYTzDyh3TfFqDdt2b2KMM56KW1tw9erRTGQo6) |
+
+### 📱 Our apps
 
 | App | What it is | Links |
 | --- | --- | --- |
-| **OnlyFridge Club**<br>`online.onlyfridgeclub.app` | A free 3D social nightclub for Android and the Solana Seeker: dance, mix drinks at the bar, play billiards, bowling and arcade games, and sing karaoke live with the people in your room. Wallet optional (Seed Vault via Mobile Wallet Adapter). | [App page](https://www.onlyfridgeclub.online/app) · [Play in the browser](https://onlyfridgeclub.online) · [Privacy](https://www.onlyfridgeclub.online/privacy.html) · [Terms](https://www.onlyfridgeclub.online/terms.html) |
-| **PIKKO**<br>`art.pikko.game` | A 3D healthy-eating game, about a minute a round: feed Pikko the healthier food and dodge the junk. 24 country food bags, 20 languages, and kid mode on by default, which hides every crypto screen. Free, no account; bags can optionally be unlocked with a DevFridge timelock, read only. | [pikko.art](https://pikko.art) · [Play](https://pikko.art/play/) · [Privacy](https://pikko.art/privacy.html) · [Terms](https://pikko.art/terms.html) |
-| **DevFridge World**<br>`cool.devfridge.world` | *Cold Storage*, the DevFridge 3D merge game: match the memes, discover the cast and keep the fridge door closed. The Android app bundles the game, with touch controls, haptics and Mobile Wallet Adapter sign-in. | [world.devfridge.cool](https://world.devfridge.cool) · [devfridge.cool](https://devfridge.cool) · [Privacy](https://world.devfridge.cool/world/android/privacy.html) |
-| **MezzoPollo**<br>`it.mezzopollo.academy` | A 3D runner with a plush chicken that has lost half of itself: run through the gate with the matching half to complete numbers, words and shapes. 20 languages and an interactive tutorial. Arcade with four paid levels, or Subscription for holders of at least 10,000,000 actively timelocked MEMEZZO on DevFridge (read only: the game never requests transactions for it). | [Play](https://mezzo-pollo-academy.vercel.app) · [Privacy](https://mezzo-pollo-academy.vercel.app/android-privacy) · [Terms](https://mezzo-pollo-academy.vercel.app/android-terms) · [Telegram](https://t.me/playmezzopollo) · [Source](https://github.com/mikeminer/mezzo-pollo-academy) |
+| **OnlyFridge Club**<br>`online.onlyfridgeclub.app` | A free 3D social nightclub for Android and the Solana Seeker. Dance, mix drinks at the bar, play billiards, bowling and arcade games, and sing karaoke live with the people in your room. The wallet is optional, with Seed Vault through Mobile Wallet Adapter. | [App page](https://www.onlyfridgeclub.online/app) · [Play in the browser](https://onlyfridgeclub.online) · [Privacy](https://www.onlyfridgeclub.online/privacy.html) · [Terms](https://www.onlyfridgeclub.online/terms.html) · [GitHub (guide and releases)](https://github.com/mikeminer/OnlyFridge) |
+| **PIKKO**<br>`art.pikko.game` | A 3D healthy-eating game, about a minute a round: feed Pikko the healthier food and dodge the junk. It has 24 country food bags and 20 languages. Kid mode is on by default and hides every crypto screen. Free, with no account. The bags can optionally be unlocked with a DevFridge timelock, which the game only reads. | [pikko.art](https://pikko.art) · [Play](https://pikko.art/play/) · [Privacy](https://pikko.art/privacy.html) · [Terms](https://pikko.art/terms.html) · [Source code](https://github.com/mikeminer/pikko) |
+| **DevFridge World**<br>`cool.devfridge.world` | *Cold Storage*, the DevFridge 3D merge game: match the memes, discover the cast and keep the fridge door closed. The Android app bundles the game, with touch controls, haptics and Mobile Wallet Adapter sign-in. | [world.devfridge.cool](https://world.devfridge.cool) · [Play](https://world.devfridge.cool/game) · [Privacy](https://world.devfridge.cool/world/android/privacy.html) · [Terms](https://world.devfridge.cool/world/android/terms.html) · [Source code (Android)](https://github.com/mikeminer/devfridge-world-android) · [Colosseum](https://colosseum.com/arena/projects/devfridge-world) |
+| **MezzoPollo**<br>`it.mezzopollo.academy` | A 3D runner with a plush chicken that has lost half of itself: run through the gate with the matching half to complete numbers, words and shapes. It has 20 languages and an interactive tutorial. Play the Arcade's four paid levels, or the Subscription for holders of at least 10,000,000 actively timelocked MEMEZZO on DevFridge. The game only reads the timelock and never asks for a transaction to check it. | [Play](https://mezzo-pollo-academy.vercel.app) · [Privacy](https://mezzo-pollo-academy.vercel.app/android-privacy) · [Terms](https://mezzo-pollo-academy.vercel.app/android-terms) · [Telegram](https://t.me/playmezzopollo) · [Source code](https://github.com/mikeminer/mezzo-pollo-academy) |
+
+### 🛠️ Build a game for your memecoin
+
+Anyone can build a game for the DevFridge collection with the **DevFridge Game Builder** and wire it to their **existing memecoin**. You don't need to be a Solana developer or know Git, and you don't deploy anything on Solana.
+
+**How it works**
+
+1. **Open your project in an AI coding agent** (for example Claude Code or Codex) and paste the prompt from [world.devfridge.cool/skill](https://world.devfridge.cool/skill). It installs the DevFridge Game Builder, an agentic skill: instructions and tools your agent follows to build the game with you.
+2. **Answer three questions:**
+   - what game you want and for which community;
+   - your token's exact mint address (the "CA"), or that it isn't launched yet;
+   - your access rule, for example "lock at least 1,000,000 tokens to play the premium levels".
+3. **The agent builds the game:** a 3D game in the browser, for desktop and phone, with the Phantom wallet and the timelock check. Without a launched token it starts in a practice mode.
+4. **Your holders lock your token on [devfridge.cool](https://devfridge.cool/)** until a date they choose. The tokens sit in a vault of the DevFridge program and can't be withdrawn early. While the lock is active, your game opens the premium part to that wallet: a subscription paid with a commitment instead of money.
+5. **At the end,** the holder takes the tokens back. 2% of what is redeemed buys and burns $PASTA, the dev token.
+
+**What you don't need**
+
+- No Solana program or contract to write or deploy: your game only *reads* the locks in the DevFridge program already on mainnet, through the DevFridge SDK.
+- No new token: you use the one your community already has. It must be a Solana Token-2022 mint that the DevFridge program supports; the skill checks this with you.
+- No Git homework: when you want, the agent prepares your game for the DevFridge gallery.
+
+*Locking gives access to the game. It does not guarantee a token's price, and the game must be fun on its own to keep people coming back.*
+
+[Get the DevFridge Game Builder](https://world.devfridge.cool/skill) · [Builder handbook](https://hackathon.devfridge.cool/hackathon/handbook/start) · [DevFridge SDK](https://sdk.devfridge.cool/) · [hackathon.devfridge.cool](https://hackathon.devfridge.cool/)
+
+### 💬 Contact and support
+
+- Email (support and privacy): [welcome@devfridge.cool](mailto:welcome@devfridge.cool)
+- Telegram, DevFridge community: [@pastaHQ](https://t.me/pastaHQ) · the founder directly: [@anonimocommando](https://t.me/anonimocommando)
+- X (Twitter): [@AnonimoCommando](https://x.com/AnonimoCommando)
+- Discord: **michele4048**
+- Warpcast (Farcaster): [@pappardelle](https://farcaster.xyz/pappardelle)
+- pump.fun: [pappardell](https://pump.fun/profile/pappardell)
+- GitHub: [mikeminer](https://github.com/mikeminer)
+
+---
 
 <img width="1292" height="698" alt="image" src="https://github.com/user-attachments/assets/6675c6e4-d4c6-4e9f-a768-d6751c2975ec" />
 This graph is MCCAPI a signal engine for all the pairs available on hyperliquid (solved the API rate limit). It serves third party apps using API calls generated by the engine. Has built in API IDE with workflow to create working trading bots reading those signals. DM me for details
